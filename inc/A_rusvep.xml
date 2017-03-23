@@ -4,33 +4,31 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>автомобильный</l>
+         <l pos="A">автомобильный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>avto||-</t>
             </tg>
             <xg>
                <x>автомобильный транспорт</x>
-               <t>avto||transport</t>
+               <xt xml:lang="vep">avtotransport</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>аккуратный</l>
+         <l pos="A">аккуратный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tark (-an, -oid)</t>
@@ -40,13 +38,12 @@
    </e>
    <e>
       <lg>
-         <l>активный</l>
+         <l pos="A">активный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>aktivi|ne (-žed, -št, -žid)</t>
@@ -56,13 +53,12 @@
    </e>
    <e>
       <lg>
-         <l>бедный</l>
+         <l pos="A">бедный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <re>(неимущий)</re>
@@ -71,7 +67,7 @@
             </tg>
             <xg>
                <x>бедный человек</x>
-               <t>gol’l’ mez’</t>
+               <xt xml:lang="vep">gol’l’ mez’</xt>
             </xg>
          </mg>
          <mg>
@@ -85,37 +81,37 @@
    </e>
    <e>
       <lg>
-         <l>белый</l>
+         <l pos="A">белый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vau|ged (-ktan, -ktoid)</t>
             </tg>
             <xg>
                <x>белый хлеб</x>
-               <t>vauged leib, nižunik (-an, -oid)</t><t> <i>(белый, как что-либо)</i> vauktutte</t>
+	       <xt xml:lang="vep">vauged leib</xt>
+	       <xt xml:lang="vep">nižunik (-an, -oid)</xt>
+	       <xt> <i>(белый, как что-либо)</i> vauktutte</xt>
             </xg>
             <xg>
                <x>белый как снег</x>
-               <t>lumen vauktutte</t>
+               <xt xml:lang="vep">lumen vauktutte</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>бережливый</l>
+         <l pos="A">бережливый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>mairheka|z (-han, -st, -hid)</t>
@@ -125,13 +121,12 @@
    </e>
    <e>
       <lg>
-         <l>берёзовый</l>
+         <l pos="A">берёзовый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>koivu|ine (-ižen, -št, -ižid)</t>
@@ -139,64 +134,61 @@
             </tg>
             <xg>
                <x>берёзовый веник</x>
-               <t>koivuine vast</t>
+               <xt xml:lang="vep">koivuine vast</xt>
             </xg>
             <xg>
                <x>берёзовый сок</x>
-               <t>koivun||ve|zi (-den, -t, -zid)</t>
+               <xt xml:lang="vep">koivun||ve|zi (-den, -t, -zid)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>бледный</l>
+         <l pos="A">бледный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vauh (-an, -oid)</t>
             </tg>
             <xg>
                <x>бледное лицо</x>
-               <t>vauh mod</t>
+               <xt xml:lang="vep">vauh mod</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>близкий</l>
+         <l pos="A">близкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>läheli|ne (-žen, -št, -žid)</t>
             </tg>
             <xg>
                <x>близкий родственник</x>
-               <t>läheline heim</t>
+               <xt xml:lang="vep">läheline heim</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>богатый</l>
+         <l pos="A">богатый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>eloka|z (-han, -st, -hid)</t>
@@ -206,13 +198,12 @@
    </e>
    <e>
       <lg>
-         <l>бумажный</l>
+         <l pos="A">бумажный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>bumag||-</t>
@@ -223,13 +214,12 @@
    </e>
    <e>
       <lg>
-         <l>быстрый</l>
+         <l pos="A">быстрый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>hered (-an, -oid)</t>
@@ -241,13 +231,12 @@
    </e>
    <e>
       <lg>
-         <l>важный</l>
+         <l pos="A">важный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(важничающий)</i>
@@ -264,13 +253,12 @@
    </e>
    <e>
       <lg>
-         <l>вежливый</l>
+         <l pos="A">вежливый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ustavaka|z (-han, -st, -hid)</t>
@@ -280,13 +268,12 @@
    </e>
    <e>
       <lg>
-         <l>великий</l>
+         <l pos="A">великий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>sur’ (suren, surt, surid)</t>
@@ -296,53 +283,50 @@
    </e>
    <e>
       <lg>
-         <l>весёлый</l>
+         <l pos="A">весёлый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>iloka|z (-han, -st, -hid)</t>
             </tg>
             <xg>
                <x>пребывать в весёлом настроении</x>
-               <t>olda ilokahal melel</t>
+               <xt xml:lang="vep">olda ilokahal melel</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>вечный</l>
+         <l pos="A">вечный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>igähi|ne (-žen, -št, -žid)</t>
             </tg>
             <xg>
                <x>в. огонь</x>
-               <t>igähine lämoi</t>
+               <xt xml:lang="vep">igähine lämoi</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>вкусный</l>
+         <l pos="A">вкусный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>maguka|z (-han, -st, -hid)</t>
@@ -352,13 +336,12 @@
    </e>
    <e>
       <lg>
-         <l>влажный</l>
+         <l pos="A">влажный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>neps (-an, -oid)</t>
@@ -369,13 +352,12 @@
    </e>
    <e>
       <lg>
-         <l>внимательный</l>
+         <l pos="A">внимательный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(прилежный)</i>
@@ -386,13 +368,12 @@
    </e>
    <e>
       <lg>
-         <l>военный</l>
+         <l pos="A">военный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>soda||-</t>
@@ -402,13 +383,12 @@
    </e>
    <e>
       <lg>
-         <l>восточный</l>
+         <l pos="A">восточный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>päiv||nouzm||po|l’ne (-l’žen, -lišt, -l’žid)</t>
@@ -418,13 +398,12 @@
    </e>
    <e>
       <lg>
-         <l>всякий</l>
+         <l pos="A">всякий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>joga, jogaji|tte (-ččen, -ttušt, -ččid)</t>
@@ -432,24 +411,23 @@
             </tg>
             <xg>
                <x>всякий раз</x>
-               <t>joga kerdan</t>
+               <xt xml:lang="vep">joga kerdan</xt>
             </xg>
             <xg>
                <x>на всякий случай</x>
-               <t>varha</t>
+               <xt xml:lang="vep">varha</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>высокий</l>
+         <l pos="A">высокий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kor|ged (-ktan, -ktoid)</t>
@@ -460,13 +438,12 @@
    </e>
    <e>
       <lg>
-         <l>гладкий</l>
+         <l pos="A">гладкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>siled (-an, -oid)</t>
@@ -477,7 +454,7 @@
    </e>
    <e>
       <lg>
-         <l>гласный</l>
+         <l pos="A">гласный</l>
          <stg>
             <st/>
          </stg>
@@ -499,28 +476,27 @@
             </tg>
             <xg>
                <x>сколько гласных в слове?</x>
-               <t>äjak vokalid (än’kulundoid) vaihes om?</t>
+               <xt xml:lang="vep">äjak vokalid (än’kulundoid) vaihes om?</xt>
             </xg>
             <xg>
                <x>переднерядный гласный</x>
-               <t>ezi||vokal’, ezi-än’kulund</t>
+               <xt xml:lang="vep">ezi||vokal’, ezi-än’kulund</xt>
             </xg>
             <xg>
                <x>среднерядный гласный</x>
-               <t>kes’k||vokal’, kes’k||än’||kulund</t>
+               <xt xml:lang="vep">kes’k||vokal’, kes’k||än’||kulund</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>гласный</l>
+         <l pos="A">гласный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>в языкознании</i>
@@ -529,40 +505,38 @@
             </tg>
             <xg>
                <x>гласная основа</x>
-               <t>vokaline tüvi [vokal’tüvi]</t>
+               <xt xml:lang="vep">vokaline tüvi [vokal’tüvi]</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>глубокий</l>
+         <l pos="A">глубокий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>süv|ä (-än, -id)</t>
             </tg>
             <xg>
                <x>глубокая мысль</x>
-               <t>süvä meletuz</t>
+               <xt xml:lang="vep">süvä meletuz</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>глупый</l>
+         <l pos="A">глупый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>el’geto|i (-man, -nt, -mid)</t>
@@ -572,13 +546,12 @@
    </e>
    <e>
       <lg>
-         <l>голодный</l>
+         <l pos="A">голодный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>näl’g||-</t>
@@ -586,25 +559,24 @@
             </tg>
             <xg>
                <x>голодные годы</x>
-               <t>näl’g||voded; ◊</t>
+               <xt xml:lang="vep">näl’g||voded; ◊</xt>
             </xg>
             <xg>
                <x>сытый голодного не разумеет</x>
                <i>пословица</i>
-               <t>näl’ghine külläižele ei usko</t>
+               <xt xml:lang="vep">näl’ghine külläižele ei usko</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>голый</l>
+         <l pos="A">голый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pal’|l’az (-han, -l’ast, -hid)</t>
@@ -616,13 +588,12 @@
    </e>
    <e>
       <lg>
-         <l>гордый</l>
+         <l pos="A">гордый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ülen||pä|ine (-ižen, -št, -ižid)</t>
@@ -632,57 +603,54 @@
    </e>
    <e>
       <lg>
-         <l>горный</l>
+         <l pos="A">горный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>mägi||-</t>
             </tg>
             <xg>
                <x>горная дорога</x>
-               <t>mägi||te (-n, -id)</t>
+               <xt xml:lang="vep">mägi||te (-n, -id)</xt>
             </xg>
             <xg>
                <x>горный хребет</x>
-               <t>mägi||sel’g (-en, -id)</t>
+               <xt xml:lang="vep">mägi||sel’g (-en, -id)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>горький</l>
+         <l pos="A">горький</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kar|ged (-ktan, -ktoid)</t>
             </tg>
             <xg>
                <x>горькие ягоды</x>
-               <t>karktad marjad</t>
+               <xt xml:lang="vep">karktad marjad</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>государственный</l>
+         <l pos="A">государственный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vald||kund||-</t>
@@ -693,33 +661,31 @@
    </e>
    <e>
       <lg>
-         <l>громкий</l>
+         <l pos="A">громкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>komed (-an, -oid)</t>
             </tg>
             <xg>
                <x>громкий голос</x>
-               <t>komed än’</t>
+               <xt xml:lang="vep">komed än’</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>грустный</l>
+         <l pos="A">грустный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>opala|hne (-ššen, -št, -ččid)</t>
@@ -730,13 +696,12 @@
    </e>
    <e>
       <lg>
-         <l>грязный</l>
+         <l pos="A">грязный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pačakoka|z (-han, -st, -hid)</t>
@@ -747,13 +712,12 @@
    </e>
    <e>
       <lg>
-         <l>далёкий</l>
+         <l pos="A">далёкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>edaha|ine (-ižen, -št, -ižid)</t><t> далёкая мечта edahaine meletuz</t>
@@ -763,13 +727,12 @@
    </e>
    <e>
       <lg>
-         <l>девятый</l>
+         <l pos="A">девятый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ühesan|z’ (-den, -t, -zid)</t>
@@ -779,7 +742,7 @@
    </e>
    <e>
       <lg>
-         <l>дежурный</l>
+         <l pos="A">дежурный</l>
          <stg>
             <st/>
          </stg>
@@ -795,13 +758,12 @@
    </e>
    <e>
       <lg>
-         <l>деревенский</l>
+         <l pos="A">деревенский</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>külä||-</t>
@@ -809,60 +771,57 @@
             </tg>
             <xg>
                <x>деревенский сход</x>
-               <t>külä||sebr (-an, -oid)</t>
+               <xt xml:lang="vep">külä||sebr (-an, -oid)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>деревянный</l>
+         <l pos="A">деревянный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pu|ine (-ižen, -št, -ižid)</t>
             </tg>
             <xg>
                <x>деревянное масло</x>
-               <t>pu||voi (-n, -d)</t>
+               <xt xml:lang="vep">pu||voi (-n, -d)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>десятый</l>
+         <l pos="A">десятый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kümnen|z’ (-den, -t, -zid)</t>
             </tg>
             <xg>
                <x>десятая часть (доля)</x>
-               <t>kümnende|z (-sen, -st, -sid)</t>
+               <xt xml:lang="vep">kümnende|z (-sen, -st, -sid)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>детский</l>
+         <l pos="A">детский</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>laps’||-</t>
@@ -872,13 +831,12 @@
    </e>
    <e>
       <lg>
-         <l>дешёвый</l>
+         <l pos="A">дешёвый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>od|av (-van, -vid)</t>
@@ -888,13 +846,12 @@
    </e>
    <e>
       <lg>
-         <l>длинный</l>
+         <l pos="A">длинный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pit’k (-än, -id)</t>
@@ -904,13 +861,12 @@
    </e>
    <e>
       <lg>
-         <l>добрый</l>
+         <l pos="A">добрый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>hüv|ä (-än, -id)</t>
@@ -921,13 +877,12 @@
    </e>
    <e>
       <lg>
-         <l>дождливый</l>
+         <l pos="A">дождливый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vihmaka|z (-han, -st, -sid)</t>
@@ -938,13 +893,12 @@
    </e>
    <e>
       <lg>
-         <l>дырявый</l>
+         <l pos="A">дырявый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>reiguka|z (-han, -st, -hid)</t>
@@ -954,33 +908,31 @@
    </e>
    <e>
       <lg>
-         <l>единственный</l>
+         <l pos="A">единственный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>üks’jä|ine (-ižen, -št, -ižid)</t>
             </tg>
             <xg>
                <x>единственное число</x>
-               <t>üks’lugu</t>
+               <xt xml:lang="vep">üks’lugu</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>ежедневный</l>
+         <l pos="A">ежедневный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>joga||päiväli|ne (-žen, -št, -žid)</t>
@@ -990,13 +942,12 @@
    </e>
    <e>
       <lg>
-         <l>жадный</l>
+         <l pos="A">жадный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ažlak (-on, -oid)</t>
@@ -1007,37 +958,35 @@
    </e>
    <e>
       <lg>
-         <l>жаркий</l>
+         <l pos="A">жаркий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>räk (-en, -id)</t>
             </tg>
             <xg>
                <x>жаркие дни</x>
-               <t>räked päiväd; <i>(о бане)</i> löunuka|z (-han, -st, -hid)</t>
+               <xt xml:lang="vep">räked päiväd; <i>(о бане)</i> löunuka|z (-han, -st, -hid)</xt>
             </xg>
             <xg>
                <x>жаркая баня</x>
-               <t>löunukaz kül’bet’</t>
+               <xt xml:lang="vep">löunukaz kül’bet’</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>железный</l>
+         <l pos="A">железный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>rauda|ine (-ižen, -št, -ižid)</t>
@@ -1045,20 +994,19 @@
             </tg>
             <xg>
                <x>железная проволока</x>
-               <t>raud||vanuim (-en, -id)</t>
+               <xt xml:lang="vep">raud||vanuim (-en, -id)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>жёлтый</l>
+         <l pos="A">жёлтый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>paku|ine (-ižen, -št, -ižid)</t>
@@ -1068,13 +1016,12 @@
    </e>
    <e>
       <lg>
-         <l>жёсткий</l>
+         <l pos="A">жёсткий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kov|a (-an, -id)</t>
@@ -1085,13 +1032,12 @@
    </e>
    <e>
       <lg>
-         <l>жидкий</l>
+         <l pos="A">жидкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>nozol (-an, -id)</t>
@@ -1102,13 +1048,12 @@
    </e>
    <e>
       <lg>
-         <l>жирный</l>
+         <l pos="A">жирный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(полный жира)</i>
@@ -1118,20 +1063,19 @@
             </tg>
             <xg>
                <x>жирное молоко</x>
-               <t>tabj maid; <i>(полный)</i> turpta|ine (-ižen, -št, -ižid)</t>
+               <xt xml:lang="vep">tabj maid; <i>(полный)</i> turpta|ine (-ižen, -št, -ižid)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>здоровый</l>
+         <l pos="A">здоровый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>terv|eh (-hen, -eht, -hid)</t><t> <i>(крепкий, сильный)</i> häčak (-on, -oid)</t>
@@ -1145,13 +1089,12 @@
    </e>
    <e>
       <lg>
-         <l>зелёный</l>
+         <l pos="A">зелёный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vihand (-an, -oid)</t>
@@ -1164,13 +1107,12 @@
    </e>
    <e>
       <lg>
-         <l>известный</l>
+         <l pos="A">известный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tetab (-ab, -id)</t>
@@ -1178,20 +1120,19 @@
             </tg>
             <xg>
                <x>она – известная писательница</x>
-               <t>hän om lujas tutab kirjutai</t>
+               <xt xml:lang="vep">hän om lujas tutab kirjutai</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>извилистый</l>
+         <l pos="A">извилистый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kover (-an, -id)</t>
@@ -1201,13 +1142,12 @@
    </e>
    <e>
       <lg>
-         <l>интересный</l>
+         <l pos="A">интересный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>melentartu|ine (-ižen, -št, -ižid)</t>
@@ -1217,13 +1157,12 @@
    </e>
    <e>
       <lg>
-         <l>испуганный</l>
+         <l pos="A">испуганный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>hämähtunu (-den, -t, -zid)</t>
@@ -1234,13 +1173,12 @@
    </e>
    <e>
       <lg>
-         <l>каждый</l>
+         <l pos="A">каждый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>joga, jogahi|ne (-žen, -št, -žid)</t>
@@ -1250,32 +1188,31 @@
             </tg>
             <xg>
                <x>каждый день</x>
-               <t>migo päiväd, joga päiv</t>
+               <xt xml:lang="vep">migo päiväd, joga päiv</xt>
             </xg>
             <xg>
                <x>каждый день идёт дождь</x>
-               <t>joga (migo) päivän vihmub</t>
+               <xt xml:lang="vep">joga (migo) päivän vihmub</xt>
             </xg>
             <xg>
                <x>каждый раз</x>
-               <t>joga kerdan</t>
+               <xt xml:lang="vep">joga kerdan</xt>
             </xg>
             <xg>
                <x>на каждом шагу</x>
-               <t>joga haškusel</t>
+               <xt xml:lang="vep">joga haškusel</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>каменный</l>
+         <l pos="A">каменный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kivi|ne (-žen, -št, -žid)</t>
@@ -1283,68 +1220,65 @@
             </tg>
             <xg>
                <x>каменный дом</x>
-               <t>kivine pert’ (kivi||pert’)</t>
+               <xt xml:lang="vep">kivine pert’ (kivi||pert’)</xt>
             </xg>
             <xg>
                <x>каменная соль</x>
-               <t>kivi||sol</t>
+               <xt xml:lang="vep">kivi||sol</xt>
             </xg>
             <xg>
                <x>каменный уголь</x>
-               <t>kivi||hil’</t>
+               <xt xml:lang="vep">kivi||hil’</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>квадратный</l>
+         <l pos="A">квадратный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>nellik||-</t>
             </tg>
             <xg>
                <x>квадратный метр</x>
-               <t>nellik||metr</t>
+               <xt xml:lang="vep">nellik||metr</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>кислый</l>
+         <l pos="A">кислый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>mui|ged (-ktan, -ktoid)</t><t> <i>(о молоке)</i> mučker (-an, -oid); ◊</t>
             </tg>
             <xg>
                <x>сделать кислое лицо (кислую мину)</x>
-               <t>vedada muiged mod</t>
+               <xt xml:lang="vep">vedada muiged mod</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>короткий</l>
+         <l pos="A">короткий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>lühüd (-an, -oid)</t>
@@ -1354,13 +1288,12 @@
    </e>
    <e>
       <lg>
-         <l>который</l>
+         <l pos="A">который</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kudamb (-an, -id)</t>
@@ -1370,13 +1303,12 @@
    </e>
    <e>
       <lg>
-         <l>красивый</l>
+         <l pos="A">красивый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>čom|a (-an, -id)</t>
@@ -1387,13 +1319,12 @@
    </e>
    <e>
       <lg>
-         <l>красный</l>
+         <l pos="A">красный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>rus|ked (-ttan, -ttoid)</t>
@@ -1403,13 +1334,12 @@
    </e>
    <e>
       <lg>
-         <l>крепкий</l>
+         <l pos="A">крепкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(прочный)</i>
@@ -1418,79 +1348,85 @@
                <t>varm|ed (-dan, -doid)</t>
                <i>(выносливый, стойкий)</i>
                <t>ninev (-an, -oid)</t>
-               <i>(здоровый)</i>
+            </tg>
+	 </mg>
+	          <mg>
+		    <defNative>(здоровый)</defNative>
+            <tg xml:lang="vep">
                <t>kambak (-on, -oid)</t>
                <t>porn (-an, -oid)</t>
             </tg>
             <xg>
                <x>крепкая рука</x>
-               <t>luja (vahv) käzi</t>
+               <xt xml:lang="vep">luja (vahv) käzi</xt>
             </xg>
             <xg>
                <x>крепкое основание, крепкий фундамент</x>
-               <t>luja aluz; <i>(о напитках) </i>vägehi|ne (-žen, -št, -žid)</t>
-               <t>vägev (-an, -id)</t>
-            </xg>
-            <xg>
-               <x>крепкий чай</x>
-               <t>vägev čai</t>
-            </xg>
-         </mg>
+               <xt xml:lang="vep">luja aluz</xt>
+	    </xg>
+	 </mg>
+	 <mg><defNative>о напитках</defNative>
+	 <tg xml:lang="vep">
+	   <t>vägehi|ne (-žen, -št, -žid)</t>
+	   <t>vägev (-an, -id)</t>
+	 </tg>
+	 <xg>
+	   <x>крепкий чай</x>
+	   <xt xml:lang="vep">vägev čai</xt>
+	 </xg>
+	 </mg>
       
    </e>
    <e>
       <lg>
-         <l>круглый</l>
+         <l pos="A">круглый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kehker (-an, -id)</t>
             </tg>
             <xg>
                <x>круглое отверстие</x>
-               <t>kehker reig</t>
+               <xt xml:lang="vep">kehker reig</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>крупный</l>
+         <l pos="A">крупный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>järed (-an, -oid)</t>
             </tg>
             <xg>
                <x>крупная соль</x>
-               <t>järed sol; <i>(упитанный)</i> jämed (-an, -oid)</t>
+               <xt xml:lang="vep">järed sol; <i>(упитанный)</i> jämed (-an, -oid)</xt>
             </xg>
             <xg>
                <x>крупная свинья</x>
-               <t>jämed siga</t>
+               <xt xml:lang="vep">jämed siga</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>ласковый</l>
+         <l pos="A">ласковый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>arm|az (-han, -ast, -hid)</t>
@@ -1500,113 +1436,109 @@
    </e>
    <e>
       <lg>
-         <l>левый</l>
+         <l pos="A">левый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>hur|a (-an, -id)</t>
             </tg>
             <xg>
                <x>взять левой рукой (в левую руку)</x>
-               <t>otta hural kädel; <i>(в политике)</i> hura</t>
+               <xt xml:lang="vep">otta hural kädel; <i>(в политике)</i> hura</xt>
             </xg>
             <xg>
                <x>левая партия</x>
-               <t>hura partii</t>
+               <xt xml:lang="vep">hura partii</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>лёгкий</l>
+         <l pos="A">лёгкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kebn (-an, -oid)</t>
             </tg>
             <xg>
                <x>лёгкая ноша</x>
-               <t>kebn kandan’</t>
+               <xt xml:lang="vep">kebn kandan’</xt>
             </xg>
             <xg>
                <x>лёгкий вопрос</x>
-               <t>kebn küzund</t>
+               <xt xml:lang="vep">kebn küzund</xt>
             </xg>
             <xg>
                <x>лёгкие шаги</x>
-               <t>kebnad haškused</t>
+               <xt xml:lang="vep">kebnad haškused</xt>
             </xg>
             <xg>
                <x>л. ветерок</x>
-               <t>tün’ tulleine; <i>(о ветре)</i> tü|n’ (-nän, -nid); ◊</t>
+               <xt xml:lang="vep">tün’ tulleine; <i>(о ветре)</i> tü|n’ (-nän, -nid); ◊</xt>
             </xg>
             <xg>
                <x>лёгкий на ногу</x>
-               <t>kebn jaugale</t>
+               <xt xml:lang="vep">kebn jaugale</xt>
             </xg>
             <xg>
                <x>с лёгкой руки</x>
-               <t>kebnas kädespäi</t>
+               <xt xml:lang="vep">kebnas kädespäi</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>лёгкий</l>
+         <l pos="A">лёгкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kebn (-an, -oid)</t>
             </tg>
             <xg>
                <x>лёгкий вопрос</x>
-               <t>kebn küzund</t>
+               <xt xml:lang="vep">kebn küzund</xt>
             </xg>
             <xg>
                <x>лёгкие шаги</x>
-               <t>kebnad haškused</t>
+               <xt xml:lang="vep">kebnad haškused</xt>
             </xg>
             <xg>
                <x>лёгкий ветерок</x>
-               <t>tün’ tulleine; ◊</t>
+               <xt xml:lang="vep">tün’ tulleine; ◊</xt>
             </xg>
             <xg>
                <x>лёгкий на ногу</x>
-               <t>kebn jaugale</t>
+               <xt xml:lang="vep">kebn jaugale</xt>
             </xg>
             <xg>
                <x>с лёгкой руки</x>
-               <t>(antta) kebnas kädespäi</t>
+               <xt xml:lang="vep">(antta) kebnas kädespäi</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>ленивый</l>
+         <l pos="A">ленивый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>lašk (an, -oid)</t>
@@ -1616,13 +1548,12 @@
    </e>
    <e>
       <lg>
-         <l>липкий</l>
+         <l pos="A">липкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tartu|i (-jan, -jid)</t>
@@ -1632,13 +1563,12 @@
    </e>
    <e>
       <lg>
-         <l>ловкий</l>
+         <l pos="A">ловкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>čopak (-on, -oid)</t>
@@ -1649,13 +1579,12 @@
    </e>
    <e>
       <lg>
-         <l>маленький</l>
+         <l pos="A">маленький</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pen’ (penen, pen’t, penid)</t>
@@ -1665,20 +1594,19 @@
             </tg>
             <xg>
                <x>маленький ребёночек</x>
-               <t>pičuine lapsut</t>
+               <xt xml:lang="vep">pičuine lapsut</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>мелкий</l>
+         <l pos="A">мелкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(неглубокий)</i>
@@ -1686,29 +1614,34 @@
             </tg>
             <xg>
                <x>мелкая речка</x>
-               <t>madal jogi; <i>(некрупный)</i> hen (-on, -oid)</t>
+               <xt xml:lang="vep">madal jogi</xt>
+	    </xg>
+	 </mg>
+         <mg>
+	   <defNative>(некрупный)</defNative>
+            <tg xml:lang="vep">
+	      <t>hen (-on, -oid)</t>
                <t>heno|ine (-ižen, -št, -ižid)</t>
-            </xg>
+            </tg>
             <xg>
                <x>мелкие деньги</x>
-               <t>henod rahad</t>
+               <xt xml:lang="vep">henod rahad</xt>
             </xg>
             <xg>
                <x>мелкий дождь</x>
-               <t>henoine vihm</t>
+               <xt xml:lang="vep">henoine vihm</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>мёртвый</l>
+         <l pos="A">мёртвый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kolnu (-den, -t, -zid)</t>
@@ -1718,13 +1651,12 @@
    </e>
    <e>
       <lg>
-         <l>милый</l>
+         <l pos="A">милый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>arm|az (-han, -ast, -hid)</t>
@@ -1738,53 +1670,50 @@
    </e>
    <e>
       <lg>
-         <l>мокрый</l>
+         <l pos="A">мокрый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>märg (-an, -id)</t>
             </tg>
             <xg>
                <x>мокрая погода</x>
-               <t>märg sä</t>
+               <xt xml:lang="vep">märg sä</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>молчаливый</l>
+         <l pos="A">молчаливый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>nepr (-in, -id)</t>
             </tg>
             <xg>
                <x>молчаливый человек</x>
-               <t>nepr ristit</t>
+               <xt xml:lang="vep">nepr ristit</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>мохнатый</l>
+         <l pos="A">мохнатый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>karvaka|z (-han, -st, -hid)</t>
@@ -1794,41 +1723,39 @@
    </e>
    <e>
       <lg>
-         <l>мягкий</l>
+         <l pos="A">мягкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pehm|ed (-dan, -doid)</t>
             </tg>
             <xg>
                <x>мягкая подушка</x>
-               <t>pehmed pöluz</t>
+               <xt xml:lang="vep">pehmed pöluz</xt>
             </xg>
             <xg>
                <x>мягкий звук</x>
-               <t>pehmed kulund</t>
+               <xt xml:lang="vep">pehmed kulund</xt>
             </xg>
             <xg>
                <x>мягкий характер</x>
-               <t>hobed taba</t>
+               <xt xml:lang="vep">hobed taba</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>народный</l>
+         <l pos="A">народный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>rahvahali|ne (-žen, -št, -žid)</t>
@@ -1836,20 +1763,19 @@
             </tg>
             <xg>
                <x>народная песня</x>
-               <t>rahvahan pajo</t>
+               <xt xml:lang="vep">rahvahan pajo</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>недостаточный</l>
+         <l pos="A">недостаточный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vähähk (-on, -oid)</t>
@@ -1859,13 +1785,12 @@
    </e>
    <e>
       <lg>
-         <l>незнакомый</l>
+         <l pos="A">незнакомый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tundmato|i (-man, -nt, -mid)</t>
@@ -1873,20 +1798,19 @@
             </tg>
             <xg>
                <x>незнакомое место</x>
-               <t>vaskmäine sija</t>
+               <xt xml:lang="vep">vaskmäine sija</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>незрелый</l>
+         <l pos="A">незрелый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ehtmato|i  (-man, -nt, -mid)</t>
@@ -1897,33 +1821,31 @@
    </e>
    <e>
       <lg>
-         <l>непослушный</l>
+         <l pos="A">непослушный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kel’dmato|i  (-man, -nt, -mid)</t>
             </tg>
             <xg>
                <x>непослушное дитя</x>
-               <t>kel’dmatoi laps’; ◊ <i>сущ. </i>turkan||pöro (-n, -id)</t>
+               <xt xml:lang="vep">kel’dmatoi laps’; ◊ <i>сущ. </i>turkan||pöro (-n, -id)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>неправильный</l>
+         <l pos="A">неправильный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vär (-an, -id)</t>
@@ -1933,13 +1855,12 @@
    </e>
    <e>
       <lg>
-         <l>непривычный</l>
+         <l pos="A">непривычный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vaskmä|ine (-ižen, -št, -ižid)</t>
@@ -1949,13 +1870,12 @@
    </e>
    <e>
       <lg>
-         <l>неряшливый</l>
+         <l pos="A">неряшливый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>čočo|i (-jan, -jid)</t>
@@ -1963,20 +1883,19 @@
             </tg>
             <xg>
                <x>неряшливая хозяйка</x>
-               <t>čočoi emäg</t>
+               <xt xml:lang="vep">čočoi emäg</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>несчастный</l>
+         <l pos="A">несчастный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ozato|i  (-man, -nt, -mid)</t>
@@ -1987,13 +1906,12 @@
    </e>
    <e>
       <lg>
-         <l>низкий</l>
+         <l pos="A">низкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(низко расположенный)</i>
@@ -2001,40 +1919,38 @@
             </tg>
             <xg>
                <x>низкое место</x>
-               <t>alahaine taho; <i>(невысокий)</i> madal (-an, -id)</t>
+               <xt xml:lang="vep">alahaine taho; <i>(невысокий)</i> madal (-an, -id)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>новый</l>
+         <l pos="A">новый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>u|z’ (-den, -t, -zid)</t>
             </tg>
             <xg>
                <x>с Новым Годом!</x>
-               <t>Uden Vodenke!</t>
+               <xt xml:lang="vep">Uden Vodenke!</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>нужный</l>
+         <l pos="A">нужный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tarbha|ine (-ižen, -št, -ižid)</t>
@@ -2044,13 +1960,12 @@
    </e>
    <e>
       <lg>
-         <l>обыкновенный</l>
+         <l pos="A">обыкновенный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>üks’||kerda|ine (-ižen, -št, -ižid)</t>
@@ -2060,13 +1975,12 @@
    </e>
    <e>
       <lg>
-         <l>огромный</l>
+         <l pos="A">огромный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ogibal (-an, -oid)</t>
@@ -2077,13 +1991,12 @@
    </e>
    <e>
       <lg>
-         <l>одинаковый</l>
+         <l pos="A">одинаковый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kohta|ine (-ižen, -št, -ižid)</t>
@@ -2091,24 +2004,23 @@
             </tg>
             <xg>
                <x>одинаковые ростом</x>
-               <t>ühtejiččed kazvol</t>
+               <xt xml:lang="vep">ühtejiččed kazvol</xt>
             </xg>
             <xg>
                <x>одинаковой величины, одинакового размера</x>
-               <t>ühten||sur|tte (-ččen, -ttušt, -ččid)</t>
+               <xt xml:lang="vep">ühten||sur|tte (-ččen, -ttušt, -ččid)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>опасный</l>
+         <l pos="A">опасный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>varuli|ne (-žen, -št, -žid)</t>
@@ -2118,37 +2030,35 @@
    </e>
    <e>
       <lg>
-         <l>острый</l>
+         <l pos="A">острый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>terav (-an, -id)</t>
             </tg>
             <xg>
                <x>острый карандаш</x>
-               <t>terav pirdim</t>
+               <xt xml:lang="vep">terav pirdim</xt>
             </xg>
             <xg>
                <x>с острым зрением</x>
-               <t>terav sil’mäle</t>
+               <xt xml:lang="vep">terav sil’mäle</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>открытый</l>
+         <l pos="A">открытый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>avoin (-uden, -ut, -uzid)</t>
@@ -2156,24 +2066,23 @@
             </tg>
             <xg>
                <x>дверь открыта</x>
-               <t>uks’ om avoin</t>
+               <xt xml:lang="vep">uks’ om avoin</xt>
             </xg>
             <xg>
                <x>открытое окно</x>
-               <t>avoin ikun</t>
+               <xt xml:lang="vep">avoin ikun</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>пасмурный</l>
+         <l pos="A">пасмурный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(облачный)</i>
@@ -2184,65 +2093,62 @@
    </e>
    <e>
       <lg>
-         <l>первый</l>
+         <l pos="A">первый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>ezmä|ine (-ižen, -št, -ižid)</t>
             </tg>
             <xg>
                <x>первый этаж</x>
-               <t>ezmäine žir, ala||žir</t>
+               <xt xml:lang="vep">ezmäine žir, ala||žir</xt>
             </xg>
             <xg>
                <x>первое сентября</x>
-               <t>ezmäine päiv sügüz’kud</t>
+               <xt xml:lang="vep">ezmäine päiv sügüz’kud</xt>
             </xg>
             <xg>
                <x>(в) первый раз</x>
-               <t>ezmäižen kerdan</t>
+               <xt xml:lang="vep">ezmäižen kerdan</xt>
             </xg>
             <xg>
                <x>в первую очередь</x>
-               <t>ezmäižikš</t>
+               <xt xml:lang="vep">ezmäižikš</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>пёстрый</l>
+         <l pos="A">пёстрый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kirjav (-an, -id)</t>
             </tg>
             <xg>
                <x>пёстрая ткань</x>
-               <t>kirjav kangaz</t>
+               <xt xml:lang="vep">kirjav kangaz</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>песчаный</l>
+         <l pos="A">песчаный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>led (-on, -oid)</t>
@@ -2254,32 +2160,31 @@
             </tg>
             <xg>
                <x>песчаный берег озера</x>
-               <t>letkesine järvenrand</t>
+               <xt xml:lang="vep">letkesine järvenrand</xt>
             </xg>
             <xg>
                <x>песчаная земля</x>
-               <t>čuru||ma</t>
+               <xt xml:lang="vep">čuru||ma</xt>
             </xg>
             <xg>
                <x>песчаная земля</x>
-               <t>lete||ma</t>
+               <xt xml:lang="vep">lete||ma</xt>
             </xg>
             <xg>
                <x>песчаный карьер</x>
-               <t>lete||radod</t>
+               <xt xml:lang="vep">lete||radod</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>печальный</l>
+         <l pos="A">печальный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>höšak (-on, -oid)</t>
@@ -2288,20 +2193,19 @@
             </tg>
             <xg>
                <x>она пела печальную песнь</x>
-               <t>hän pajati pahamel’žen pajon</t>
+               <xt xml:lang="vep">hän pajati pahamel’žen pajon</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>письменный</l>
+         <l pos="A">письменный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kirjutand||-</t>
@@ -2312,13 +2216,12 @@
    </e>
    <e>
       <lg>
-         <l>плоский</l>
+         <l pos="A">плоский</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>lapak (-on, -oid)</t>
@@ -2328,33 +2231,31 @@
    </e>
    <e>
       <lg>
-         <l>полезный</l>
+         <l pos="A">полезный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tarbha|ine (-ižen, -št, -ižid)</t>
             </tg>
             <xg>
                <x>дать полезный совет</x>
-               <t>antta tarbhaine nevond</t>
+               <xt xml:lang="vep">antta tarbhaine nevond</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>правильный</l>
+         <l pos="A">правильный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>oi|ged (-ktan, -ktoid)</t>
@@ -2364,33 +2265,31 @@
    </e>
    <e>
       <lg>
-         <l>правый</l>
+         <l pos="A">правый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>oi|ged (-ktan, -ktoid)</t>
             </tg>
             <xg>
                <x>правая рука</x>
-               <t>oiged käzi</t>
+               <xt xml:lang="vep">oiged käzi</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>прибрежный</l>
+         <l pos="A">прибрежный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>randemba|ine (-ižen, -št, -ižid)</t>
@@ -2400,13 +2299,12 @@
    </e>
    <e>
       <lg>
-         <l>прилежный</l>
+         <l pos="A">прилежный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tark (-an, -oid)</t>
@@ -2416,13 +2314,12 @@
    </e>
    <e>
       <lg>
-         <l>просторный</l>
+         <l pos="A">просторный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>avar (-on, -oid)</t>
@@ -2432,13 +2329,12 @@
    </e>
    <e>
       <lg>
-         <l>прочный</l>
+         <l pos="A">прочный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vahv (-an, -oid)</t>
@@ -2449,13 +2345,12 @@
    </e>
    <e>
       <lg>
-         <l>пыльный</l>
+         <l pos="A">пыльный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pölüka|z (-han, -st, -hid)</t>
@@ -2466,33 +2361,31 @@
    </e>
    <e>
       <lg>
-         <l>пятый</l>
+         <l pos="A">пятый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>viden|z’ (-den, -t, -zid)</t>
             </tg>
             <xg>
                <x>в пятом классе</x>
-               <t>videndes klassas</t>
+               <xt xml:lang="vep">videndes klassas</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>разноцветный</l>
+         <l pos="A">разноцветный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>eraz||muju|ine (-ižen, -št, -ižid)</t>
@@ -2502,13 +2395,12 @@
    </e>
    <e>
       <lg>
-         <l>разный</l>
+         <l pos="A">разный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>erazvui|tte (-ččen, -ttušt, -ččid)</t>
@@ -2518,13 +2410,12 @@
    </e>
    <e>
       <lg>
-         <l>рваный</l>
+         <l pos="A">рваный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>rizu (-n, -id)</t>
@@ -2534,13 +2425,12 @@
    </e>
    <e>
       <lg>
-         <l>редкий</l>
+         <l pos="A">редкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>harv (-an, -oid)</t>
@@ -2550,13 +2440,12 @@
    </e>
    <e>
       <lg>
-         <l>робкий</l>
+         <l pos="A">робкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>arg (-an, -oid)</t>
@@ -2566,13 +2455,12 @@
    </e>
    <e>
       <lg>
-         <l>ровный</l>
+         <l pos="A">ровный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tazo (-n, -id)</t>
@@ -2582,33 +2470,31 @@
    </e>
    <e>
       <lg>
-         <l>светлый</l>
+         <l pos="A">светлый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vouv|az (-han, -ast, -hid)</t>
             </tg>
             <xg>
                <x>светлый горизонт</x>
-               <t>vouvaz taivhanröun</t>
+               <xt xml:lang="vep">vouvaz taivhanröun</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>северный</l>
+         <l pos="A">северный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pohjo|ine (-ižen, -št, -ižid)</t>
@@ -2616,28 +2502,27 @@
             </tg>
             <xg>
                <x>северный ветер</x>
-               <t>pohjoiž||tullei</t>
+               <xt xml:lang="vep">pohjoiž||tullei</xt>
             </xg>
             <xg>
                <x>северная сторона</x>
-               <t>pohjoine pol’</t>
+               <xt xml:lang="vep">pohjoine pol’</xt>
             </xg>
             <xg>
                <x>северный полюс</x>
-               <t>pohjoiž||naba</t>
+               <xt xml:lang="vep">pohjoiž||naba</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>сельский</l>
+         <l pos="A">сельский</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>külä||-</t>
@@ -2645,24 +2530,23 @@
             </tg>
             <xg>
                <x>сельский житель</x>
-               <t>külähine eläi</t>
+               <xt xml:lang="vep">külähine eläi</xt>
             </xg>
             <xg>
                <x>сельский переулок</x>
-               <t>külä||kujo</t>
+               <xt xml:lang="vep">külä||kujo</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>сердитый</l>
+         <l pos="A">сердитый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>käred (-an, -oid)</t>
@@ -2671,40 +2555,38 @@
             </tg>
             <xg>
                <x>сердитый голос</x>
-               <t>rän’ än’</t>
+               <xt xml:lang="vep">rän’ än’</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>серый</l>
+         <l pos="A">серый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>hahk (-an, -oid)</t>
             </tg>
             <xg>
                <x>серое небо</x>
-               <t>hahk taivaz</t>
+               <xt xml:lang="vep">hahk taivaz</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>сильный</l>
+         <l pos="A">сильный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(физически)</i>
@@ -2715,40 +2597,38 @@
             </tg>
             <xg>
                <x>сильный ветер</x>
-               <t>kova tullei</t>
+               <xt xml:lang="vep">kova tullei</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>скользкий</l>
+         <l pos="A">скользкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>libed (-an, -oid)</t>
             </tg>
             <xg>
                <x>скользкая тропа</x>
-               <t>libed tehut</t>
+               <xt xml:lang="vep">libed tehut</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>слабый</l>
+         <l pos="A">слабый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>(физически)</i>
@@ -2757,24 +2637,23 @@
             </tg>
             <xg>
                <x>слабый раствор</x>
-               <t>väl’l’ segoitez</t>
+               <xt xml:lang="vep">väl’l’ segoitez</xt>
             </xg>
             <xg>
                <x>сабый чай</x>
-               <t>väl’l’ čai</t>
+               <xt xml:lang="vep">väl’l’ čai</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>сладкий</l>
+         <l pos="A">сладкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>maged (-an, -oid)</t>
@@ -2784,53 +2663,50 @@
    </e>
    <e>
       <lg>
-         <l>смелый</l>
+         <l pos="A">смелый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>rohk|ed (-tan, -toid)</t>
             </tg>
             <xg>
                <x>смелый солдат</x>
-               <t>rohked saldat</t>
+               <xt xml:lang="vep">rohked saldat</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>солёный</l>
+         <l pos="A">солёный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>solaka|z (-han, -st, -hid)</t>
             </tg>
             <xg>
                <x>солёные рыжики</x>
-               <t>solakahad lepsened</t>
+               <xt xml:lang="vep">solakahad lepsened</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>солнечный</l>
+         <l pos="A">солнечный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>päipaštoka|z (-han, -st, -hid)</t>
@@ -2840,33 +2716,31 @@
    </e>
    <e>
       <lg>
-         <l>спелый</l>
+         <l pos="A">спелый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>küps (-an, -id)</t>
             </tg>
             <xg>
                <x>ячмень уже спелый</x>
-               <t>ozr om jo küps</t>
+               <xt xml:lang="vep">ozr om jo küps</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>спокойный</l>
+         <l pos="A">спокойный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tün’ (tünen, tünid)</t><t> <i>(о характере)</i> vezo (-n, -id)</t>
@@ -2876,33 +2750,31 @@
    </e>
    <e>
       <lg>
-         <l>спортивный</l>
+         <l pos="A">спортивный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>sport||-</t>
             </tg>
             <xg>
                <x>спортивный танец</x>
-               <t>sport||karg</t>
+               <xt xml:lang="vep">sport||karg</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>старательный</l>
+         <l pos="A">старательный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>tark (-an, -oid)</t>
@@ -2912,13 +2784,12 @@
    </e>
    <e>
       <lg>
-         <l>старинный</l>
+         <l pos="A">старинный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>amu|ine (-ižen, -št, -ižid)</t>
@@ -2928,33 +2799,31 @@
    </e>
    <e>
       <lg>
-         <l>старый</l>
+         <l pos="A">старый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>vanh (-an, -oid)</t>
             </tg>
             <xg>
                <x>старый дом</x>
-               <t>vanh pert’; <i>(изношенный)</i> kulu (-n, -id)</t>
+               <xt xml:lang="vep">vanh pert’; <i>(изношенный)</i> kulu (-n, -id)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>стеклянный</l>
+         <l pos="A">стеклянный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>st’okol||-</t>
@@ -2964,13 +2833,12 @@
    </e>
    <e>
       <lg>
-         <l>сытый</l>
+         <l pos="A">сытый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>küllä|ine (-ižen, -št, -ižid)</t>
@@ -2980,13 +2848,12 @@
    </e>
    <e>
       <lg>
-         <l>тёмный</l>
+         <l pos="A">тёмный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>pimed (-an, -oid)</t><t> <i>(о цвете)</i> muz|a (-an, -oid)</t>
@@ -2996,33 +2863,31 @@
    </e>
    <e>
       <lg>
-         <l>тёплый</l>
+         <l pos="A">тёплый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>läm’ (lämän, lämid)</t>
             </tg>
             <xg>
                <x>тёплый вечер</x>
-               <t>läm’ eht</t>
+               <xt xml:lang="vep">läm’ eht</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>тесный</l>
+         <l pos="A">тесный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>aht|az (-han, -st, -hid)</t>
@@ -3032,57 +2897,66 @@
    </e>
    <e>
       <lg>
-         <l>толстый</l>
+         <l pos="A">толстый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>san|ged (-ktan, -ktoid)</t>
             </tg>
             <xg>
                <x>толстый словарь</x>
-               <t>sanged vajehnik</t>
+               <xt xml:lang="vep">sanged vajehnik</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>тонкий</l>
+         <l pos="A">тонкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>hoik (-an, -id)</t>
             </tg>
             <xg>
                <x>тонкая шея</x>
-               <t>hoik kagl; <i>(напр., о слухе, зрении)</i> terav (-an, -id)</t><t> <i>(изысканный)</i> hen (-on, -oid)</t>
-            </xg>
+               <xt xml:lang="vep">hoik kagl</xt>
+	    </xg>
+	 </mg>
+	 <mg>
+	   <defNative>(напр., о слухе, зрении)</defNative>
+	   <tg xml:lang="vep">
+	     <t>terav (-an, -id)</t>
+	   </tg>
+	 </mg>
+	 <mg>
+	   <defNative>изысканный</defNative>
+	   <tg xml:lang="vep">
+             <t>hen (-on, -oid)</t>
+            </tg>
             <xg>
                <x>тонкий вкус</x>
-               <t>hen magu</t>
+               <xt xml:lang="vep">hen magu</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>топкий</l>
+         <l pos="A">топкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kuhruika|z (-han, -st, -hid)</t>
@@ -3090,20 +2964,19 @@
             </tg>
             <xg>
                <x>топкое место</x>
-               <t>bibute|z (-sen, -st, -sid)</t>
+               <xt xml:lang="vep">bibute|z (-sen, -st, -sid)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>трудный</l>
+         <l pos="A">трудный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>jüged (-an, -oid)</t>
@@ -3111,48 +2984,46 @@
             </tg>
             <xg>
                <x>трудная задача</x>
-               <t>jüged lugutego</t>
+               <xt xml:lang="vep">jüged lugutego</xt>
             </xg>
             <xg>
                <x>я оказался в трудной ситуации</x>
-               <t>ozaižimoi koverikahas situacijas; <i>(о времени)</i> vol|az (-han, -ast, -hid)</t>
+               <xt xml:lang="vep">ozaižimoi koverikahas situacijas; <i>(о времени)</i> vol|az (-han, -ast, -hid)</xt>
             </xg>
             <xg>
                <x>трудные времена</x>
-               <t>volaz aig</t>
+               <xt xml:lang="vep">volaz aig</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>тяжёлый</l>
+         <l pos="A">тяжёлый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>jüged (-an, -oid)</t>
             </tg>
             <xg>
                <x>тяжёлый мешок</x>
-               <t>jüged šaug; <i>(трудный)</i> löumai (-n, -d)</t>
+               <xt xml:lang="vep">jüged šaug; <i>(трудный)</i> löumai (-n, -d)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>узкий</l>
+         <l pos="A">узкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kaid (-an, -oid)</t><t> у. ручей kaid oja; <i>(тесный)</i> aht|az (-han, -ast, -hid)</t>
@@ -3162,13 +3033,12 @@
    </e>
    <e>
       <lg>
-         <l>указательный</l>
+         <l pos="A">указательный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <i>в языкознании</i>
@@ -3176,20 +3046,19 @@
             </tg>
             <xg>
                <x>указательный палец</x>
-               <t>ora||sor’m (-en, -id)</t>
+               <xt xml:lang="vep">ora||sor’m (-en, -id)</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>умелый</l>
+         <l pos="A">умелый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>kädeka|z (-han, -st, -hid)</t>
@@ -3200,13 +3069,12 @@
    </e>
    <e>
       <lg>
-         <l>умный</l>
+         <l pos="A">умный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>meleka|z (-han, -st, -hid)</t>
@@ -3217,13 +3085,12 @@
    </e>
    <e>
       <lg>
-         <l>упрямый</l>
+         <l pos="A">упрямый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>nenaka|z (-han, -st, -hid)</t>
@@ -3233,13 +3100,12 @@
    </e>
    <e>
       <lg>
-         <l>устойчивый</l>
+         <l pos="A">устойчивый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>seižu|i (-jan, -jid)</t>
@@ -3249,13 +3115,12 @@
    </e>
    <e>
       <lg>
-         <l>холодный</l>
+         <l pos="A">холодный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>raibak (-on, -oid)</t>
@@ -3264,24 +3129,23 @@
             </tg>
             <xg>
                <x>холодная вода</x>
-               <t>vilu vezi</t>
+               <xt xml:lang="vep">vilu vezi</xt>
             </xg>
             <xg>
                <x>холодный ветер</x>
-               <t>kajed tullei</t>
+               <xt xml:lang="vep">kajed tullei</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>храбрый</l>
+         <l pos="A">храбрый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>rohk|ed (-tan, -toid)</t>
@@ -3291,13 +3155,12 @@
    </e>
    <e>
       <lg>
-         <l>худой</l>
+         <l pos="A">худой</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>  hoivito|i (-man, -nt, -mid)</t>
@@ -3308,13 +3171,12 @@
    </e>
    <e>
       <lg>
-         <l>целый</l>
+         <l pos="A">целый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>(весь, полный) kogona|ine (-ižen, -št, -ižid)</t>
@@ -3322,44 +3184,42 @@
             </tg>
             <xg>
                <x>я целый день читал</x>
-               <t>kogonaižen (ünäižen) päivän lugin</t>
+               <xt xml:lang="vep">kogonaižen (ünäižen) päivän lugin</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>чёрный</l>
+         <l pos="A">чёрный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>must (-an, -oid)</t>
             </tg>
             <xg>
                <x>чёрный цвет</x>
-               <t>must muju</t>
+               <xt xml:lang="vep">must muju</xt>
             </xg>
             <xg>
                <x>чёрный хлеб</x>
-               <t>must leib</t>
+               <xt xml:lang="vep">must leib</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>четвёртый</l>
+         <l pos="A">четвёртый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t> nellän|z’ (-den, -t, -zid)</t>
@@ -3369,57 +3229,54 @@
    </e>
    <e>
       <lg>
-         <l>чистый</l>
+         <l pos="A">чистый</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>puht|az (-han, -ast, -hid)</t>
             </tg>
             <xg>
                <x>чистое небо</x>
-               <t>puhtaz taivaz</t>
+               <xt>puhtaz taivaz</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>широкий</l>
+         <l pos="A">широкий</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>leved (-an, -oid)</t>
             </tg>
             <xg>
                <x>широкие рукава</x>
-               <t>levedad hijamad</t>
+               <xt xml:lang="vep">levedad hijamad</xt>
             </xg>
             <xg>
                <x>жить на широкую ногу</x>
-               <t>eläda levedas</t>
+               <xt xml:lang="vep">eläda levedas</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>школьный</l>
+         <l pos="A">школьный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>škol||-</t>
@@ -3430,56 +3287,55 @@
    </e>
    <e>
       <lg>
-         <l>южный</l>
+         <l pos="A">южный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
             <tg xml:lang="vep">
                <t>suvi||-</t>
             </tg>
             <xg>
                <x>южная сторона</x>
-               <t>suvi||pol’</t>
+               <xt xml:lang="vep">suvipol’</xt>
             </xg>
             <xg>
                <x>южный ветер</x>
-               <t>suvi||tullei</t>
+               <xt xml:lang="vep">suvitullei</xt>
             </xg>
          </mg>
       
    </e>
    <e>
       <lg>
-         <l>ясный</l>
+         <l pos="A">ясный</l>
          <stg>
             <st/>
          </stg>
       </lg>
-      <pos>A</pos>
-      
+            
          <mg>
+               <defNative>(о веществе, погоде)</defNative>
             <tg xml:lang="vep">
-               <i>(о веществе, погоде)</i>
                <t>kajo|z (-sen, -st, -sid)</t>
                <t>sel’|ged (-ktan, -ktoid)</t>
             </tg>
             <xg>
                <x>ясное небо</x>
-               <t>kajoz (sel’ged) taivaz</t>
+               <xt xml:lang="vep">kajoz taivaz</xt>
+	       <xt>sel’ged taivaz</xt>
             </xg>
             <xg>
                <x>ясная погода</x>
-               <t>poud (-an)</t>
+               <xt xml:lang="vep">poud (-an)</xt>
             </xg>
             <xg>
                <x>становиться ясным</x>
                <i>(проясняться)</i>
-               <t>kajostu|da (-b, -i)</t>
-               <t>sel’g|eta (-neb, -ni)</t>
+               <xt>kajostu|da (-b, -i)</xt>
+               <xt>sel’g|eta (-neb, -ni)</xt>
             </xg>
          </mg>
          <mg>
